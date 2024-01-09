@@ -1,0 +1,6 @@
+env: "uat"
+appName: "mangekyo"
+domain: "uat-dbl.protium.net.in"
+mem: 200M
+cluster: ui
+isPublic: true

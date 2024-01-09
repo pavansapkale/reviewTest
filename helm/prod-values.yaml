@@ -1,0 +1,6 @@
+env: "prod"
+appName: "mangekyo"
+domain: "dbl.protium.co.in"
+mem: 200M
+cluster: ui
+isPublic: true

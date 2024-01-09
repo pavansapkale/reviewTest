@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: #7eaae2;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #63c7f7;
+      }
+
+      .cls-7 {
+        fill: #d7e6f2;
+      }
+
+      .cls-8 {
+        fill: #c5d4dd;
+      }
+
+      .cls-9 {
+        fill: #537fb7;
+      }
+
+      .cls-10 {
+        fill: #476ece;
+      }
+
+      .cls-11, .cls-12 {
+        fill: #263a79;
+      }
+
+      .cls-13 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-12 {
+        opacity: .2;
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-16 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        opacity: .5;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="128.99" y="101.04" width="231.33" height="317.37"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="150.72" y1="89.72" x2="321.16" y2="403.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8f9fd"/>
+      <stop offset="1" stop-color="#eaeef9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="246.65" y1="276.53" x2="357.93" y2="276.53" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fe4c70"/>
+      <stop offset="1" stop-color="#ef2b5a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="336.26" y1="345.41" x2="406.09" y2="345.41" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g class="cls-16">
+    <g id="Layer_1" data-name="Layer 1">
+      <g>
+        <rect class="cls-7" x="131.94" y="86.56" width="231.33" height="317.37" transform="translate(-46.49 58.27) rotate(-12.28)"/>
+        <g class="cls-13">
+          <g class="cls-3">
+            <rect class="cls-8" x="131.94" y="86.56" width="231.33" height="317.37" transform="translate(-46.49 58.27) rotate(-12.28)"/>
+          </g>
+        </g>
+        <rect class="cls-2" x="123.23" y="93.38" width="231.33" height="317.37"/>
+        <rect class="cls-12" x="142.81" y="118.62" width="156.11" height="8.76" rx="4.38" ry="4.38"/>
+        <rect class="cls-12" x="142.81" y="136.14" width="104.59" height="8.76" rx="4.38" ry="4.38"/>
+        <g>
+          <rect class="cls-9" x="229.88" y="202.6" width="8.76" height="70.58"/>
+          <rect class="cls-5" x="216.49" y="221.15" width="8.76" height="52.04"/>
+          <rect class="cls-5" x="203.09" y="214.45" width="8.76" height="58.73"/>
+          <rect class="cls-9" x="189.7" y="219.6" width="8.76" height="53.58"/>
+          <rect class="cls-5" x="176.3" y="230.42" width="8.76" height="42.76"/>
+          <rect class="cls-9" x="162.91" y="227.33" width="8.76" height="45.85"/>
+          <rect class="cls-9" x="149.51" y="246.39" width="8.76" height="26.79"/>
+          <rect class="cls-5" x="256.67" y="202.6" width="8.76" height="67.49"/>
+          <circle class="cls-11" cx="238.64" cy="236.09" r="3.09"/>
+          <circle class="cls-11" cx="207.21" cy="255.15" r="3.09"/>
+          <circle class="cls-11" cx="192.79" cy="242.27" r="3.09"/>
+          <circle class="cls-11" cx="153.63" cy="264.43" r="3.09"/>
+          <polygon class="cls-11" points="154.01 265.1 153.25 263.75 192.89 241.33 207.3 254.2 238.24 235.43 239.04 236.75 207.13 256.11 192.69 243.22 154.01 265.1"/>
+          <rect class="cls-5" x="288.62" y="173.23" width="8.76" height="67.49" transform="translate(86.02 499.98) rotate(-90)"/>
+          <rect class="cls-6" x="288.62" y="183.02" width="8.76" height="67.49" transform="translate(76.23 509.77) rotate(-90)"/>
+          <rect class="cls-5" x="288.62" y="192.81" width="8.76" height="67.49" transform="translate(66.44 519.56) rotate(-90)"/>
+          <rect class="cls-6" x="288.62" y="202.6" width="8.76" height="67.49" transform="translate(56.65 529.34) rotate(-90)"/>
+          <rect class="cls-5" x="288.62" y="212.39" width="8.76" height="67.49" transform="translate(46.86 539.13) rotate(-90)"/>
+          <rect class="cls-6" x="288.62" y="222.18" width="8.76" height="67.49" transform="translate(37.07 548.92) rotate(-90)"/>
+          <rect class="cls-5" x="288.62" y="231.97" width="8.76" height="67.49" transform="translate(27.28 558.71) rotate(-90)"/>
+          <g>
+            <path class="cls-9" d="M216.37,332.19l9.65-1.64c-2.62-15.43-15.13-27.53-30.77-29.51l-1.24,9.71c11.36,1.44,20.45,10.23,22.36,21.44Z"/>
+            <path class="cls-11" d="M216.37,332.19c.24,1.42,.37,2.87,.37,4.36,0,14.35-11.67,26.02-26.02,26.02-11.84,0-21.86-7.96-24.99-18.81l-9.4,2.71c4.32,14.93,18.1,25.88,34.4,25.88,19.74,0,35.81-16.06,35.81-35.81,0-2.05-.18-4.05-.51-6l-9.65,1.64Z"/>
+            <path class="cls-5" d="M164.71,336.56c0-14.35,11.67-26.02,26.02-26.02,1.11,0,2.21,.08,3.29,.22l1.24-9.71c-1.48-.19-2.99-.3-4.53-.3-19.74,0-35.81,16.06-35.81,35.81,0,3.44,.5,6.77,1.41,9.93l9.4-2.71c-.66-2.29-1.02-4.71-1.02-7.21Z"/>
+          </g>
+          <path class="cls-11" d="M278.31,301.01v35.11l-28.59,18.76c-3.74-5.52-5.93-12.18-5.93-19.35,0-19.06,15.46-34.52,34.52-34.52Z"/>
+          <path class="cls-10" d="M278.31,336.11v33.93c-11.89,0-22.38-6.01-28.59-15.17l28.59-18.76Z"/>
+          <path class="cls-4" d="M291.67,367.37c-4.11,1.73-8.62,2.68-13.35,2.68v-33.93l13.35,31.25Z"/>
+          <path class="cls-9" d="M312.83,335.53c0,14.33-8.73,26.62-21.17,31.84l-13.35-31.25v-35.11c19.06,0,34.52,15.46,34.52,34.52Z"/>
+        </g>
+        <g>
+          <path class="cls-15" d="M341.66,315.89c-21.7,21.7-57.02,21.7-78.73,0-21.7-21.7-21.7-57.02,0-78.73,21.7-21.7,57.02-21.7,78.73,0,21.7,21.7,21.7,57.02,0,78.73Zm-74.14-74.14c-19.17,19.17-19.17,50.37,0,69.55,19.17,19.17,50.37,19.17,69.55,0,19.17-19.17,19.17-50.37,0-69.55s-50.37-19.17-69.55,0Z"/>
+          <path class="cls-14" d="M341.66,311.3l61.31,53.14c3.78,3.27,4.19,8.99,.91,12.77-3.54,4.16-10.14,4.15-13.68,0,0,0-53.14-61.31-53.14-61.31-2.55-3.09,1.48-7.15,4.59-4.59h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
